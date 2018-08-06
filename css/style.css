@@ -1,0 +1,93 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  color: black;
+  background-color: #fbfbfb;
+  font-size: 14px;
+  margin: 0px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* ---------------------------HEADER------------------------------- */
+#header-wrapper .navbar .logo-wrapper .navbar-brand {
+  padding-top: 7px;
+}
+
+#header-wrapper .navbar .logo-wrapper .navbar-brand img {
+  border-radius: 100px;
+}
+
+/* --------------------------MAIN---------------------------------- */
+#main .header-page {
+  margin-bottom: 20px;
+}
+
+#main .header-page h3 {
+  margin-bottom: 20px;
+}
+
+#main .main-content-left .header-page .tips {
+  background: #FF9;
+  border: 1px solid #E6DB55;
+  padding: 6px 10px;
+  text-shadow: 0 1px white;
+  font-size: 12px;
+  display: block;
+  min-height: 15px;
+  margin-bottom: 5px;
+}
+
+#main .main-content-left .post-item {
+  margin-bottom: 30px;
+}
+
+#main .main-content-left .post-item .info .title {
+  margin-bottom: 20px;
+}
+
+#main .main-content-left .stats {
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+#main .main-content-left .stats .stats-item {
+  float: left;
+  margin-right: 20px;
+}
+
+#main .main-content-left .stats .likes a {
+  background: #4267b2;
+  border: 1px solid #4267b2;
+  color: #fff;
+  cursor: pointer;
+  font-family: Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  -webkit-user-select: none;
+  white-space: nowrap;
+  border-radius: 5px;
+  padding: 2px 3px;
+}
+
+#main .main-content-left .post-item-detail .comments-wapper {
+  margin-top: 30px;
+}
+
+#main .main-content-left .post-item-detail .comments-wapper .comment-enter {
+  margin-bottom: 20px;
+}
+
+#main .main-content-left .post-item-detail .comments-wapper .comment-item {
+  margin-bottom: 5px;
+}
+
+#main .main-content-right .post-hot-item {
+  margin-bottom: 20px;
+}
